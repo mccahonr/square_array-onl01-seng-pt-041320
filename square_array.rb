@@ -1,4 +1,4 @@
 def square_array(array)
   # your code here
-  array.eac
+  array.each
 end
